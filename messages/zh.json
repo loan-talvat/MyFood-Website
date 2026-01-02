@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "title": "Snaqy - AI驱动的简易营养追踪",
+    "description": "拍照追踪你的饮食。Snaqy使用人工智能自动分析你的餐食，帮助你实现营养目标。免费且简单。",
+    "keywords": "饮食追踪, 卡路里计算器, 营养追踪器, 饮食日记, AI卡路里计算, 宏量营养素追踪"
+  },
+  "nav": {
+    "features": "功能",
+    "pricing": "价格",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "getStarted": "开始使用",
+    "login": "登录"
+  },
+  "hero": {
+    "badge": "简单、免费、有效",
+    "title": "追踪你的饮食",
+    "titleHighlight": "只需一张照片",
+    "description": "Snaqy使用人工智能自动分析你的餐食，帮助你实现营养目标。无需再手动输入每种食物。",
+    "cta": "免费开始",
+    "ctaSecondary": "查看功能",
+    "noCard": "无需信用卡"
+  },
+  "howItWorks": {
+    "title": "使用方法",
+    "subtitle": "三个简单步骤追踪你的饮食",
+    "steps": {
+      "photo": {
+        "title": "拍摄照片",
+        "description": "拍摄你的餐食照片，无论是主菜、甜点还是零食。"
+      },
+      "analysis": {
+        "title": "AI分析",
+        "description": "我们的人工智能自动识别食物并计算营养价值。"
+      },
+      "tracking": {
+        "title": "追踪进度",
+        "description": "查看你的每日、每周和每月统计数据，实现你的目标。"
+      }
+    }
+  },
+  "features": {
+    "title": "你需要的一切",
+    "subtitle": "简化营养追踪的功能设计",
+    "items": {
+      "aiAnalysis": {
+        "title": "智能AI分析",
+        "description": "我们的AI自动检测你菜肴的成分：蛋白质、碳水化合物、脂肪和卡路里。"
+      },
+      "multiPhoto": {
+        "title": "多张照片",
+        "description": "每餐添加多张照片，分别记录你的前菜、主菜和甜点。"
+      },
+      "stats": {
+        "title": "详细统计",
+        "description": "按日、按周或按月可视化你的消费情况。"
+      },
+      "goals": {
+        "title": "个性化目标",
+        "description": "AI根据你的个人资料计算理想的卡路里需求：身高、体重、性别和身体活动。"
+      },
+      "sharing": {
+        "title": "分享与协作",
+        "description": "与营养师或朋友分享你的餐食，进行远程监控。"
+      },
+      "location": {
+        "title": "地理定位",
+        "description": "定位每顿餐食，记住你在哪里吃了那道美味的菜。"
+      },
+      "notes": {
+        "title": "个人笔记",
+        "description": "为每顿餐食添加笔记，追踪你的感受和偏好。"
+      },
+      "socialShare": {
+        "title": "餐食分享",
+        "description": "与他人分享餐食，避免共餐时的重复记录。"
+      }
+    }
+  },
+  "stats": {
+    "users": "活跃用户",
+    "meals": "记录的餐食",
+    "accuracy": "AI准确率",
+    "free": "100%免费"
+  },
+  "pricing": {
+    "title": "简单透明的价格",
+    "subtitle": "免费开始，准备好后升级到Pro",
+    "monthly": "每月",
+    "plans": {
+      "free": {
+        "name": "免费版",
+        "price": "¥0",
+        "description": "开始营养追踪的完美选择",
+        "features": [
+          "无限餐食记录",
+          "手动输入食物",
+          "基本统计",
+          "个性化目标",
+          "与营养师分享",
+          "餐食笔记"
+        ],
+        "cta": "免费开始"
+      },
+      "pro": {
+        "name": "专业版",
+        "price": "¥45",
+        "description": "AI完整体验",
+        "features": [
+          "免费版所有功能",
+          "AI自动照片分析",
+          "照片食物识别",
+          "自动宏量营养素计算",
+          "高级统计",
+          "优先支持"
+        ],
+        "cta": "升级到Pro",
+        "popular": "最受欢迎"
+      }
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": [
+        {
+          "question": "我可以免费使用Snaqy吗？",
+          "answer": "是的，Snaqy完全免费，功能齐全。Pro订阅增加了餐食照片的AI自动分析功能。"
+        },
+        {
+          "question": "AI分析是如何工作的？",
+          "answer": "使用Pro订阅，只需拍摄你的餐食照片，我们的AI就会自动识别食物并计算营养价值。"
+        },
+        {
+          "question": "我可以取消订阅吗？",
+          "answer": "是的，你可以随时取消Pro订阅。你将保留访问权限直到计费周期结束。"
+        },
+        {
+          "question": "我的数据安全吗？",
+          "answer": "绝对安全。你的数据经过加密并安全存储。我们永远不会与第三方共享你的信息。"
+        }
+      ]
+    }
+  },
+  "cta": {
+    "title": "准备好改变你的饮食了吗？",
+    "description": "加入数千名使用Snaqy简单追踪饮食的用户。",
+    "button": "创建我的免费账户",
+    "noCard": "无需信用卡"
+  },
+  "about": {
+    "title": "关于Snaqy",
+    "subtitle": "一个人人可用的简单营养追踪解决方案",
+    "mission": {
+      "title": "我们的使命",
+      "description": "我们相信营养追踪应该对每个人都简单、可及和免费。Snaqy诞生于这个信念：让每个人都能轻松理解自己的饮食。"
+    },
+    "story": {
+      "title": "我们的故事",
+      "description": "Snaqy由厌倦了复杂和昂贵应用的营养和技术爱好者创建。我们开发了一个直达本质的解决方案：拍照、获取营养信息、追踪进度。"
+    },
+    "openSource": {
+      "title": "开源",
+      "description": "Snaqy是一个开源项目。我们相信透明和社区的力量。每个人都可以为改进应用做出贡献。"
+    },
+    "values": {
+      "title": "我们的价值观",
+      "items": [
+        {
+          "title": "简单",
+          "description": "直达要点的直觉界面"
+        },
+        {
+          "title": "可及性",
+          "description": "免费且人人可用"
+        },
+        {
+          "title": "透明",
+          "description": "开源代码和安全数据"
+        },
+        {
+          "title": "创新",
+          "description": "AI服务于你的健康"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "有问题或建议？我们随时为你提供帮助",
+    "form": {
+      "name": "姓名",
+      "namePlaceholder": "你的姓名",
+      "email": "邮箱",
+      "emailPlaceholder": "your@email.com",
+      "subject": "主题",
+      "subjectPlaceholder": "你的消息主题是什么？",
+      "message": "消息",
+      "messagePlaceholder": "在这里写下你的消息...",
+      "submit": "发送消息",
+      "success": "消息发送成功！",
+      "error": "发生错误，请重试。"
+    },
+    "info": {
+      "email": "contact@snaqy.io",
+      "social": "社交网络"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": [
+        {
+          "question": "如何创建账户？",
+          "answer": "点击「免费开始」并按照说明在几秒钟内创建你的账户。"
+        },
+        {
+          "question": "应用在移动设备上可用吗？",
+          "answer": "是的，Snaqy是一个渐进式网络应用(PWA)，在手机、平板和电脑上都能完美运行。"
+        },
+        {
+          "question": "如何与我的营养师分享我的餐食？",
+          "answer": "在你的账户设置中，你可以为你的营养师添加访问权限，他们就可以远程追踪你的餐食。"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "使用AI简单追踪你的饮食。",
+    "product": {
+      "title": "产品",
+      "features": "功能",
+      "pricing": "价格",
+      "download": "下载"
+    },
+    "company": {
+      "title": "公司",
+      "about": "关于我们",
+      "contact": "联系我们",
+      "blog": "博客"
+    },
+    "legal": {
+      "title": "法律",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "cookies": "Cookie政策"
+    },
+    "copyright": "© {year} Snaqy。保留所有权利。",
+    "madeWith": "用心制作"
+  }
+}

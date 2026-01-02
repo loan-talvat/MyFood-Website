@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "title": "Snaqy - Seguimiento nutricional simplificado con IA",
+    "description": "Sigue tu alimentación con una foto. Snaqy analiza automáticamente tus comidas con IA y te ayuda a alcanzar tus objetivos nutricionales. Gratis y sencillo.",
+    "keywords": "seguimiento alimentario, contador de calorías, tracker nutricional, diario alimentario, cálculo de calorías IA, seguimiento de macros"
+  },
+  "nav": {
+    "features": "Funciones",
+    "pricing": "Precios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "getStarted": "Empezar",
+    "login": "Iniciar sesión"
+  },
+  "hero": {
+    "badge": "Simple, gratis, efectivo",
+    "title": "Sigue tu alimentación",
+    "titleHighlight": "con una foto",
+    "description": "Snaqy utiliza inteligencia artificial para analizar automáticamente tus comidas y ayudarte a alcanzar tus objetivos nutricionales. No más entrada manual de cada alimento.",
+    "cta": "Comenzar gratis",
+    "ctaSecondary": "Ver funciones",
+    "noCard": "No se requiere tarjeta de crédito"
+  },
+  "howItWorks": {
+    "title": "Cómo funciona",
+    "subtitle": "Tres pasos simples para seguir tu alimentación",
+    "steps": {
+      "photo": {
+        "title": "Toma una foto",
+        "description": "Fotografía tu comida, ya sea un plato principal, postre o snack."
+      },
+      "analysis": {
+        "title": "La IA analiza",
+        "description": "Nuestra inteligencia artificial identifica automáticamente los alimentos y calcula los valores nutricionales."
+      },
+      "tracking": {
+        "title": "Sigue tu progreso",
+        "description": "Consulta tus estadísticas diarias, semanales y mensuales para alcanzar tus objetivos."
+      }
+    }
+  },
+  "features": {
+    "title": "Todo lo que necesitas",
+    "subtitle": "Funciones diseñadas para simplificar tu seguimiento nutricional",
+    "items": {
+      "aiAnalysis": {
+        "title": "Análisis IA inteligente",
+        "description": "Nuestra IA detecta automáticamente los componentes de tu plato: proteínas, carbohidratos, grasas y calorías."
+      },
+      "multiPhoto": {
+        "title": "Fotos múltiples",
+        "description": "Añade varias fotos por comida para capturar tu entrada, plato principal y postre por separado."
+      },
+      "stats": {
+        "title": "Estadísticas detalladas",
+        "description": "Visualiza tu consumo día a día, semana a semana o mes a mes."
+      },
+      "goals": {
+        "title": "Objetivos personalizados",
+        "description": "La IA calcula tus necesidades calóricas ideales según tu perfil: altura, peso, sexo y actividad física."
+      },
+      "sharing": {
+        "title": "Compartir y colaborar",
+        "description": "Comparte tus comidas con un nutricionista o amigo para seguimiento remoto."
+      },
+      "location": {
+        "title": "Geolocalización",
+        "description": "Localiza cada comida para recordar dónde comiste ese delicioso plato."
+      },
+      "notes": {
+        "title": "Notas personales",
+        "description": "Añade notas a cada comida para seguir tus sensaciones y preferencias."
+      },
+      "socialShare": {
+        "title": "Compartir comidas",
+        "description": "Comparte una comida con alguien para evitar duplicados durante comidas compartidas."
+      }
+    }
+  },
+  "stats": {
+    "users": "Usuarios activos",
+    "meals": "Comidas registradas",
+    "accuracy": "Precisión IA",
+    "free": "100% Gratis"
+  },
+  "pricing": {
+    "title": "Precios simples y transparentes",
+    "subtitle": "Comienza gratis, pasa a Pro cuando estés listo",
+    "monthly": "por mes",
+    "plans": {
+      "free": {
+        "name": "Gratis",
+        "price": "0€",
+        "description": "Perfecto para comenzar tu seguimiento nutricional",
+        "features": [
+          "Registro ilimitado de comidas",
+          "Entrada manual de alimentos",
+          "Estadísticas básicas",
+          "Objetivos personalizados",
+          "Compartir con nutricionista",
+          "Notas en las comidas"
+        ],
+        "cta": "Comenzar gratis"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "6€",
+        "description": "La experiencia completa con IA",
+        "features": [
+          "Todo del plan Gratis",
+          "Análisis IA automático de fotos",
+          "Detección de alimentos por foto",
+          "Cálculo automático de macros",
+          "Estadísticas avanzadas",
+          "Soporte prioritario"
+        ],
+        "cta": "Pasar a Pro",
+        "popular": "Más popular"
+      }
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "items": [
+        {
+          "question": "¿Puedo usar Snaqy gratis?",
+          "answer": "Sí, Snaqy es completamente gratuito con funciones completas. La suscripción Pro añade análisis automático por IA de tus fotos de comidas."
+        },
+        {
+          "question": "¿Cómo funciona el análisis IA?",
+          "answer": "Con la suscripción Pro, simplemente toma una foto de tu comida y nuestra IA identifica automáticamente los alimentos y calcula los valores nutricionales."
+        },
+        {
+          "question": "¿Puedo cancelar mi suscripción?",
+          "answer": "Sí, puedes cancelar tu suscripción Pro en cualquier momento. Mantendrás el acceso hasta el final de tu período de facturación."
+        },
+        {
+          "question": "¿Mis datos están seguros?",
+          "answer": "Absolutamente. Tus datos están cifrados y almacenados de forma segura. Nunca compartimos tu información con terceros."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "title": "¿Listo para transformar tu alimentación?",
+    "description": "Únete a miles de usuarios que siguen su alimentación fácilmente con Snaqy.",
+    "button": "Crear mi cuenta gratis",
+    "noCard": "No se requiere tarjeta de crédito"
+  },
+  "about": {
+    "title": "Sobre Snaqy",
+    "subtitle": "Una solución simple para el seguimiento nutricional accesible para todos",
+    "mission": {
+      "title": "Nuestra misión",
+      "description": "Creemos que el seguimiento nutricional debe ser simple, accesible y gratuito para todos. Snaqy nació de esta convicción: permitir a todos entender mejor su alimentación sin complejidad."
+    },
+    "story": {
+      "title": "Nuestra historia",
+      "description": "Snaqy fue creado por entusiastas de la nutrición y la tecnología que estaban cansados de aplicaciones complicadas y caras. Desarrollamos una solución que va a lo esencial: tomar una foto, obtener información nutricional, seguir tu progreso."
+    },
+    "openSource": {
+      "title": "Código abierto",
+      "description": "Snaqy es un proyecto de código abierto. Creemos en la transparencia y la comunidad. Todos pueden contribuir a mejorar la aplicación."
+    },
+    "values": {
+      "title": "Nuestros valores",
+      "items": [
+        {
+          "title": "Simplicidad",
+          "description": "Una interfaz intuitiva que va directo al grano"
+        },
+        {
+          "title": "Accesibilidad",
+          "description": "Gratis y disponible para todos"
+        },
+        {
+          "title": "Transparencia",
+          "description": "Código abierto y datos seguros"
+        },
+        {
+          "title": "Innovación",
+          "description": "La IA al servicio de tu salud"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "¿Una pregunta, una sugerencia? Estamos aquí para ayudarte",
+    "form": {
+      "name": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "email": "Email",
+      "emailPlaceholder": "tu@email.com",
+      "subject": "Asunto",
+      "subjectPlaceholder": "¿Cuál es el asunto de tu mensaje?",
+      "message": "Mensaje",
+      "messagePlaceholder": "Escribe tu mensaje aquí...",
+      "submit": "Enviar mensaje",
+      "success": "¡Mensaje enviado con éxito!",
+      "error": "Ocurrió un error. Por favor, inténtalo de nuevo."
+    },
+    "info": {
+      "email": "contact@snaqy.io",
+      "social": "Redes sociales"
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "items": [
+        {
+          "question": "¿Cómo puedo crear una cuenta?",
+          "answer": "Haz clic en 'Comenzar gratis' y sigue las instrucciones para crear tu cuenta en segundos."
+        },
+        {
+          "question": "¿La aplicación está disponible en móvil?",
+          "answer": "Sí, Snaqy es una aplicación web progresiva (PWA) que funciona perfectamente en móvil, tablet y ordenador."
+        },
+        {
+          "question": "¿Cómo comparto mis comidas con mi nutricionista?",
+          "answer": "En la configuración de tu cuenta, puedes añadir acceso para tu nutricionista que podrá seguir tus comidas de forma remota."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Sigue tu alimentación fácilmente con IA.",
+    "product": {
+      "title": "Producto",
+      "features": "Funciones",
+      "pricing": "Precios",
+      "download": "Descargar"
+    },
+    "company": {
+      "title": "Empresa",
+      "about": "Nosotros",
+      "contact": "Contacto",
+      "blog": "Blog"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacidad",
+      "terms": "Términos de servicio",
+      "cookies": "Cookies"
+    },
+    "copyright": "© {year} Snaqy. Todos los derechos reservados.",
+    "madeWith": "Hecho con"
+  }
+}

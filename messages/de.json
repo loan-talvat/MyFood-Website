@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "title": "Snaqy - KI-gestützte Ernährungsverfolgung leicht gemacht",
+    "description": "Verfolgen Sie Ihre Ernährung mit einem Foto. Snaqy analysiert Ihre Mahlzeiten automatisch mit KI und hilft Ihnen, Ihre Ernährungsziele zu erreichen. Kostenlos und einfach.",
+    "keywords": "Ernährungsverfolgung, Kalorienzähler, Ernährungs-Tracker, Ernährungstagebuch, KI-Kalorienrechner, Makro-Tracking"
+  },
+  "nav": {
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "getStarted": "Loslegen",
+    "login": "Anmelden"
+  },
+  "hero": {
+    "badge": "Einfach, kostenlos, effektiv",
+    "title": "Verfolgen Sie Ihre Ernährung",
+    "titleHighlight": "mit einem Foto",
+    "description": "Snaqy nutzt künstliche Intelligenz, um Ihre Mahlzeiten automatisch zu analysieren und Ihnen zu helfen, Ihre Ernährungsziele zu erreichen. Keine manuelle Eingabe mehr für jedes Lebensmittel.",
+    "cta": "Kostenlos starten",
+    "ctaSecondary": "Funktionen ansehen",
+    "noCard": "Keine Kreditkarte erforderlich"
+  },
+  "howItWorks": {
+    "title": "So funktioniert es",
+    "subtitle": "Drei einfache Schritte zur Ernährungsverfolgung",
+    "steps": {
+      "photo": {
+        "title": "Machen Sie ein Foto",
+        "description": "Fotografieren Sie Ihre Mahlzeit, ob Hauptgericht, Dessert oder Snack."
+      },
+      "analysis": {
+        "title": "KI analysiert",
+        "description": "Unsere künstliche Intelligenz identifiziert automatisch Lebensmittel und berechnet Nährwerte."
+      },
+      "tracking": {
+        "title": "Verfolgen Sie Ihren Fortschritt",
+        "description": "Sehen Sie Ihre täglichen, wöchentlichen und monatlichen Statistiken, um Ihre Ziele zu erreichen."
+      }
+    }
+  },
+  "features": {
+    "title": "Alles was Sie brauchen",
+    "subtitle": "Funktionen zur Vereinfachung Ihrer Ernährungsverfolgung",
+    "items": {
+      "aiAnalysis": {
+        "title": "Intelligente KI-Analyse",
+        "description": "Unsere KI erkennt automatisch die Bestandteile Ihres Gerichts: Proteine, Kohlenhydrate, Fette und Kalorien."
+      },
+      "multiPhoto": {
+        "title": "Mehrere Fotos",
+        "description": "Fügen Sie mehrere Fotos pro Mahlzeit hinzu, um Vorspeise, Hauptgericht und Dessert separat zu erfassen."
+      },
+      "stats": {
+        "title": "Detaillierte Statistiken",
+        "description": "Visualisieren Sie Ihren Verbrauch Tag für Tag, Woche für Woche oder Monat für Monat."
+      },
+      "goals": {
+        "title": "Personalisierte Ziele",
+        "description": "Die KI berechnet Ihren idealen Kalorienbedarf basierend auf Ihrem Profil: Größe, Gewicht, Geschlecht und körperliche Aktivität."
+      },
+      "sharing": {
+        "title": "Teilen & Zusammenarbeit",
+        "description": "Teilen Sie Ihre Mahlzeiten mit einem Ernährungsberater oder Freund zur Fernüberwachung."
+      },
+      "location": {
+        "title": "Geolokalisierung",
+        "description": "Lokalisieren Sie jede Mahlzeit, um sich zu erinnern, wo Sie dieses köstliche Gericht gegessen haben."
+      },
+      "notes": {
+        "title": "Persönliche Notizen",
+        "description": "Fügen Sie Notizen zu jeder Mahlzeit hinzu, um Ihre Gefühle und Vorlieben zu verfolgen."
+      },
+      "socialShare": {
+        "title": "Mahlzeiten teilen",
+        "description": "Teilen Sie eine Mahlzeit mit jemand anderem, um Duplikate bei gemeinsamen Mahlzeiten zu vermeiden."
+      }
+    }
+  },
+  "stats": {
+    "users": "Aktive Nutzer",
+    "meals": "Erfasste Mahlzeiten",
+    "accuracy": "KI-Genauigkeit",
+    "free": "100% Kostenlos"
+  },
+  "pricing": {
+    "title": "Einfache und transparente Preise",
+    "subtitle": "Starten Sie kostenlos, wechseln Sie zu Pro wenn Sie bereit sind",
+    "monthly": "pro Monat",
+    "plans": {
+      "free": {
+        "name": "Kostenlos",
+        "price": "0€",
+        "description": "Perfekt um mit der Ernährungsverfolgung zu beginnen",
+        "features": [
+          "Unbegrenzte Mahlzeitenerfassung",
+          "Manuelle Lebensmitteleingabe",
+          "Grundlegende Statistiken",
+          "Personalisierte Ziele",
+          "Mit Ernährungsberater teilen",
+          "Mahlzeitennotizen"
+        ],
+        "cta": "Kostenlos starten"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "6€",
+        "description": "Das komplette Erlebnis mit KI",
+        "features": [
+          "Alles im kostenlosen Plan",
+          "Automatische KI-Fotoanalyse",
+          "Lebensmittelerkennung aus Fotos",
+          "Automatische Makroberechnung",
+          "Erweiterte Statistiken",
+          "Prioritäts-Support"
+        ],
+        "cta": "Zu Pro wechseln",
+        "popular": "Am beliebtesten"
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "question": "Kann ich Snaqy kostenlos nutzen?",
+          "answer": "Ja, Snaqy ist mit vollem Funktionsumfang komplett kostenlos. Das Pro-Abonnement fügt automatische KI-Analyse Ihrer Mahlzeitenfotos hinzu."
+        },
+        {
+          "question": "Wie funktioniert die KI-Analyse?",
+          "answer": "Mit dem Pro-Abonnement machen Sie einfach ein Foto Ihrer Mahlzeit und unsere KI identifiziert automatisch Lebensmittel und berechnet Nährwerte."
+        },
+        {
+          "question": "Kann ich mein Abonnement kündigen?",
+          "answer": "Ja, Sie können Ihr Pro-Abonnement jederzeit kündigen. Sie behalten den Zugang bis zum Ende Ihres Abrechnungszeitraums."
+        },
+        {
+          "question": "Sind meine Daten sicher?",
+          "answer": "Absolut. Ihre Daten sind verschlüsselt und sicher gespeichert. Wir teilen Ihre Informationen niemals mit Dritten."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "title": "Bereit, Ihre Ernährung zu transformieren?",
+    "description": "Schließen Sie sich Tausenden von Nutzern an, die ihre Ernährung einfach mit Snaqy verfolgen.",
+    "button": "Mein kostenloses Konto erstellen",
+    "noCard": "Keine Kreditkarte erforderlich"
+  },
+  "about": {
+    "title": "Über Snaqy",
+    "subtitle": "Eine einfache Lösung für Ernährungsverfolgung, zugänglich für alle",
+    "mission": {
+      "title": "Unsere Mission",
+      "description": "Wir glauben, dass Ernährungsverfolgung einfach, zugänglich und kostenlos für alle sein sollte. Snaqy wurde aus dieser Überzeugung geboren: jedem zu ermöglichen, seine Ernährung ohne Komplexität besser zu verstehen."
+    },
+    "story": {
+      "title": "Unsere Geschichte",
+      "description": "Snaqy wurde von Ernährungs- und Technologie-Enthusiasten erstellt, die komplizierte und teure Apps satt hatten. Wir haben eine Lösung entwickelt, die zum Wesentlichen kommt: ein Foto machen, Nährwertinformationen erhalten, Fortschritt verfolgen."
+    },
+    "openSource": {
+      "title": "Open Source",
+      "description": "Snaqy ist ein Open-Source-Projekt. Wir glauben an Transparenz und Gemeinschaft. Jeder kann zur Verbesserung der Anwendung beitragen."
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "items": [
+        {
+          "title": "Einfachheit",
+          "description": "Eine intuitive Oberfläche, die direkt auf den Punkt kommt"
+        },
+        {
+          "title": "Zugänglichkeit",
+          "description": "Kostenlos und für alle verfügbar"
+        },
+        {
+          "title": "Transparenz",
+          "description": "Open-Source-Code und sichere Daten"
+        },
+        {
+          "title": "Innovation",
+          "description": "KI im Dienste Ihrer Gesundheit"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Eine Frage, ein Vorschlag? Wir sind hier um zu helfen",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Ihr Name",
+      "email": "E-Mail",
+      "emailPlaceholder": "ihre@email.de",
+      "subject": "Betreff",
+      "subjectPlaceholder": "Was ist der Betreff Ihrer Nachricht?",
+      "message": "Nachricht",
+      "messagePlaceholder": "Schreiben Sie Ihre Nachricht hier...",
+      "submit": "Nachricht senden",
+      "success": "Nachricht erfolgreich gesendet!",
+      "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+    },
+    "info": {
+      "email": "contact@snaqy.io",
+      "social": "Soziale Netzwerke"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "question": "Wie kann ich ein Konto erstellen?",
+          "answer": "Klicken Sie auf 'Kostenlos starten' und folgen Sie den Anweisungen, um Ihr Konto in Sekunden zu erstellen."
+        },
+        {
+          "question": "Ist die App auf Mobilgeräten verfügbar?",
+          "answer": "Ja, Snaqy ist eine progressive Web-App (PWA), die perfekt auf Mobilgeräten, Tablets und Computern funktioniert."
+        },
+        {
+          "question": "Wie teile ich meine Mahlzeiten mit meinem Ernährungsberater?",
+          "answer": "In Ihren Kontoeinstellungen können Sie Zugang für Ihren Ernährungsberater hinzufügen, der dann Ihre Mahlzeiten aus der Ferne verfolgen kann."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Verfolgen Sie Ihre Ernährung einfach mit KI.",
+    "product": {
+      "title": "Produkt",
+      "features": "Funktionen",
+      "pricing": "Preise",
+      "download": "Herunterladen"
+    },
+    "company": {
+      "title": "Unternehmen",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "blog": "Blog"
+    },
+    "legal": {
+      "title": "Rechtliches",
+      "privacy": "Datenschutz",
+      "terms": "Nutzungsbedingungen",
+      "cookies": "Cookies"
+    },
+    "copyright": "© {year} Snaqy. Alle Rechte vorbehalten.",
+    "madeWith": "Gemacht mit"
+  }
+}

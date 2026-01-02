@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "title": "Snaqy - AI-Powered Nutrition Tracking Made Simple",
+    "description": "Track your diet with a photo. Snaqy automatically analyzes your meals with AI and helps you reach your nutritional goals. Free and simple.",
+    "keywords": "food tracking, calorie counter, nutrition tracker, food diary, AI calorie calculator, macro tracking"
+  },
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started",
+    "login": "Login"
+  },
+  "hero": {
+    "badge": "Simple, free, effective",
+    "title": "Track your diet",
+    "titleHighlight": "with a photo",
+    "description": "Snaqy uses artificial intelligence to automatically analyze your meals and help you reach your nutritional goals. No more manual entry for each food item.",
+    "cta": "Get started for free",
+    "ctaSecondary": "See features",
+    "noCard": "No credit card required"
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "subtitle": "Three simple steps to track your diet",
+    "steps": {
+      "photo": {
+        "title": "Take a photo",
+        "description": "Photograph your meal, whether it's a main course, dessert, or snack."
+      },
+      "analysis": {
+        "title": "AI analyzes",
+        "description": "Our artificial intelligence automatically identifies foods and calculates nutritional values."
+      },
+      "tracking": {
+        "title": "Track your progress",
+        "description": "View your daily, weekly, and monthly statistics to reach your goals."
+      }
+    }
+  },
+  "features": {
+    "title": "Everything you need",
+    "subtitle": "Features designed to simplify your nutrition tracking",
+    "items": {
+      "aiAnalysis": {
+        "title": "Smart AI Analysis",
+        "description": "Our AI automatically detects the components of your dish: proteins, carbs, fats, and calories."
+      },
+      "multiPhoto": {
+        "title": "Multiple Photos",
+        "description": "Add multiple photos per meal to capture your appetizer, main course, and dessert separately."
+      },
+      "stats": {
+        "title": "Detailed Statistics",
+        "description": "Visualize your consumption day by day, week by week, or month by month."
+      },
+      "goals": {
+        "title": "Personalized Goals",
+        "description": "AI calculates your ideal caloric needs based on your profile: height, weight, gender, and physical activity."
+      },
+      "sharing": {
+        "title": "Sharing & Collaboration",
+        "description": "Share your meals with a nutritionist or friend for remote monitoring."
+      },
+      "location": {
+        "title": "Geolocation",
+        "description": "Locate each meal to remember where you ate that delicious dish."
+      },
+      "notes": {
+        "title": "Personal Notes",
+        "description": "Add notes to each meal to track your feelings and preferences."
+      },
+      "socialShare": {
+        "title": "Meal Sharing",
+        "description": "Share a meal with someone else to avoid duplicates during shared meals."
+      }
+    }
+  },
+  "stats": {
+    "users": "Active Users",
+    "meals": "Meals Recorded",
+    "accuracy": "AI Accuracy",
+    "free": "100% Free"
+  },
+  "pricing": {
+    "title": "Simple and transparent pricing",
+    "subtitle": "Start for free, upgrade to Pro when you're ready",
+    "monthly": "per month",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "$0",
+        "description": "Perfect to start your nutrition tracking",
+        "features": [
+          "Unlimited meal recording",
+          "Manual food entry",
+          "Basic statistics",
+          "Personalized goals",
+          "Share with a nutritionist",
+          "Meal notes"
+        ],
+        "cta": "Get started for free"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$6",
+        "description": "The complete experience with AI",
+        "features": [
+          "Everything in Free plan",
+          "Automatic AI photo analysis",
+          "Food detection from photos",
+          "Automatic macro calculation",
+          "Advanced statistics",
+          "Priority support"
+        ],
+        "cta": "Upgrade to Pro",
+        "popular": "Most popular"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "Can I use Snaqy for free?",
+          "answer": "Yes, Snaqy is completely free with full features. The Pro subscription adds automatic AI analysis of your meal photos."
+        },
+        {
+          "question": "How does AI analysis work?",
+          "answer": "With the Pro subscription, simply take a photo of your meal and our AI automatically identifies foods and calculates nutritional values."
+        },
+        {
+          "question": "Can I cancel my subscription?",
+          "answer": "Yes, you can cancel your Pro subscription at any time. You'll retain access until the end of your billing period."
+        },
+        {
+          "question": "Is my data secure?",
+          "answer": "Absolutely. Your data is encrypted and stored securely. We never share your information with third parties."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "title": "Ready to transform your diet?",
+    "description": "Join thousands of users who track their diet simply with Snaqy.",
+    "button": "Create my free account",
+    "noCard": "No credit card required"
+  },
+  "about": {
+    "title": "About Snaqy",
+    "subtitle": "A simple solution for nutrition tracking accessible to everyone",
+    "mission": {
+      "title": "Our mission",
+      "description": "We believe nutrition tracking should be simple, accessible, and free for everyone. Snaqy was born from this conviction: enabling everyone to better understand their diet without complexity."
+    },
+    "story": {
+      "title": "Our story",
+      "description": "Snaqy was created by nutrition and technology enthusiasts who were tired of complicated and expensive apps. We developed a solution that gets to the essentials: take a photo, get nutritional information, track your progress."
+    },
+    "openSource": {
+      "title": "Open Source",
+      "description": "Snaqy is an open source project. We believe in transparency and community. Everyone can contribute to improving the application."
+    },
+    "values": {
+      "title": "Our values",
+      "items": [
+        {
+          "title": "Simplicity",
+          "description": "An intuitive interface that gets straight to the point"
+        },
+        {
+          "title": "Accessibility",
+          "description": "Free and available to everyone"
+        },
+        {
+          "title": "Transparency",
+          "description": "Open source code and secure data"
+        },
+        {
+          "title": "Innovation",
+          "description": "AI at the service of your health"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "A question, a suggestion? We're here to help",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is the subject of your message?",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Send message",
+      "success": "Message sent successfully!",
+      "error": "An error occurred. Please try again."
+    },
+    "info": {
+      "email": "contact@snaqy.io",
+      "social": "Social networks"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "How can I create an account?",
+          "answer": "Click on 'Get started for free' and follow the instructions to create your account in seconds."
+        },
+        {
+          "question": "Is the app available on mobile?",
+          "answer": "Yes, Snaqy is a progressive web app (PWA) that works perfectly on mobile, tablet, and computer."
+        },
+        {
+          "question": "How do I share my meals with my nutritionist?",
+          "answer": "In your account settings, you can add access for your nutritionist who can then track your meals remotely."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Track your diet simply with AI.",
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "download": "Download"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About",
+      "contact": "Contact",
+      "blog": "Blog"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy",
+      "terms": "Terms of Service",
+      "cookies": "Cookies"
+    },
+    "copyright": "© {year} Snaqy. All rights reserved.",
+    "madeWith": "Made with"
+  }
+}
